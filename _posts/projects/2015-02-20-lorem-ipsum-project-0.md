@@ -3,7 +3,7 @@ layout:     project
 categories: projects
 title:      "Lorem Ipsum"
 subtitle:   "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
-date:       2015-02-20 12:00:00
+permalink:  /projects/lorem-ipsum
 
 languages:  C++
 ---

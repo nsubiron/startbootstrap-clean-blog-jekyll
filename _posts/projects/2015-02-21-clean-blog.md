@@ -3,7 +3,7 @@ layout:     project
 categories: projects
 title:      "Start Bootstrap's Clean Blog"
 subtitle:   "A clean, Bootstrap blog theme"
-date:       2015-02-21 12:00:00
+permalink:  /projects/clean-blog
 
 languages:       Jekyll Theme
 github_username: nsubiron
