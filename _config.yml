@@ -5,9 +5,13 @@ email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://yourdomain.com"
-# twitter_username: yourname
-# github_username: yourname
-# facebook_username: yourname
+
+# Contact info
+gravatar_hash:     "00000000000000000000000000000000"
+twitter_username:  yourname
+facebook_username: yourname
+github_username:   yourname
+linkedin_profile:  "https://www.linkedin.com"
 
 # Build settings
 markdown: kramdown
